@@ -48,6 +48,8 @@ Most of my work sits at the intersection of **Product Management** and **Generat
 
 ## Skills
 
+Product Management . PRD Writing . Roadmapping . Agile / Scrum . Sprint Planning . User Research . Stakeholder Management . Go-to-Market Strategy . Data Analysis . A/B Testing
+
 **AI Product Management**  
 LLM Product Design · Use Case Discovery · Prompt & Workflow Design · AI Feature Scoping · Evaluation Metrics (quality, latency, cost) · Experimentation & Iteration
 
