@@ -1,4 +1,6 @@
 Hi, I'm Yatin 👋
+
+
 I build AI-powered products and manage real businesses — from family retail operations to tools that solve actual customer problems.
 Most of my work sits at the intersection of Product Management and Generative AI: shipping apps with Gemini, writing PRDs, defining success metrics, and turning business problems into working software. I'm currently pursuing Post-Graduate Product Management with Agentic & Generative AI at BITSOM.
 What I build
