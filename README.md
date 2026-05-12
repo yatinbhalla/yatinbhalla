@@ -68,5 +68,5 @@ E-commerce · Retail Operations · Customer Behavior & Conversion · Marketing A
 
 ## Connect
 
-- **LinkedIn:** www.linkedin.com/in/yatin-bhalla-834632238
+- **LinkedIn:** www.linkedin.com/in/yatinbhalla42
 - **Email:** Yatinhalla42@gmail.com
