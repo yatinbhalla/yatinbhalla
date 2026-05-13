@@ -68,5 +68,7 @@ E-commerce · Retail Operations · Customer Behavior & Conversion · Marketing A
 
 ## Connect
 
-- **LinkedIn:** www.linkedin.com/in/yatinbhalla42
-- **Email:** Yatinhalla42@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yatin%20Bhalla-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yatinbhalla42)
+[![Gmail](https://img.shields.io/badge/Gmail-yatinbhalla42%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:yatinbhalla42@gmail.com)
+[![X](https://img.shields.io/badge/X-@yatinbhalla42-000000?logo=x&logoColor=white)](https://x.com/yatinbhalla42)
+
