@@ -8,7 +8,7 @@
  
   ![Followers](https://img.shields.io/github/followers/yatinbhalla?style=flat-square&color=2F81F7&label=Followers) 
  
-  ![Stars](https://img.shields.io/github/stars/yatinbhalla?style=flat-square&color=2F81F7&label=Stars) 
+  ![Stars](https://img.shields.io/github/stars/yatinbhalla?style=flat-square&color=2F81F7&label=Stars)  
  
   ![Location](https://img.shields.io/badge/Based%20in-India-success?style=flat-square) 
  
