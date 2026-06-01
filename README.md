@@ -24,10 +24,16 @@ Most of my work sits at the intersection of **Product Management** and **Generat
 
 **Recent work:**
    > • Voice Matters — Vernacular AI for India's underbanked (PRD + 60+ Jira tickets public)
+
    > • PM-Scenario-Lab — AI PM interview simulator (Gemini 2.5 Pro)
+
+
    > • NehaBillingApp — 2 min → 20 sec billing for footwear retail
+   
    > • GreenPrint — Gemini 3.1 Pro sustainability analyzer
+   
    > • EcomLens-AI — 2 hrs/day saved per e-commerce seller
+   
    > • AI-Study-Quiz-Generator — 70 power users in BITSoM cohort
 
 ## About Me
