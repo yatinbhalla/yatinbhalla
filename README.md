@@ -22,24 +22,13 @@ I build **AI-powered products** and manage **real businesses** — from family r
 
 Most of my work sits at the intersection of **Product Management** and **Generative AI**: shipping apps with Gemini, writing PRDs, defining success metrics, and turning business problems into working software. I’m currently pursuing **Post-Graduate Product Management with Agentic & Generative AI at BITSOM**.
 
-## What I Build
-
-- **AI Tools for Real Businesses**
-  - Built marketing automation, billing software, and AI product photography tools for my family's retail stores
-  - Shipped, deployed, and used in production daily
-
-- **PM Tooling & Prototypes**
-  - PRD + working prototype for an agentic retail marketing platform
-  - PM scenario simulators, sprint trackers, and user persona generators
-  - Demonstrating end-to-end product thinking
-
-- **Customer Intelligence**
-  - Sentiment analyzers and feedback tools that extract actionable insights from raw customer data
-  - Built for e-commerce teams
-
-- **EdTech Apps**
-  - Quiz generators, study tools, and daily thinking challenges
-  - Built on active recall and spaced repetition principles
+**Recent work:**
+   > • Voice Matters — Vernacular AI for India's underbanked (PRD + 60+ Jira tickets public)
+   > • PM-Scenario-Lab — AI PM interview simulator (Gemini 2.5 Pro)
+   > • NehaBillingApp — 2 min → 20 sec billing for footwear retail
+   > • GreenPrint — Gemini 3.1 Pro sustainability analyzer
+   > • EcomLens-AI — 2 hrs/day saved per e-commerce seller
+   > • AI-Study-Quiz-Generator — 70 power users in BITSoM cohort
 
 ## About Me
 
