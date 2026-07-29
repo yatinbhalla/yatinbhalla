@@ -16,7 +16,7 @@
 </div>
 ---
 
-# Hi, I'm Yatin 👋 
+# Hi, I'm Yatin 👋
 
 I build **AI-powered products** and manage **real businesses** — from family retail operations to tools that solve actual customer problems.
 
