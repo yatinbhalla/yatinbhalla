@@ -10,7 +10,7 @@
  
   ![Stars](https://img.shields.io/github/stars/yatinbhalla?style=flat-square&color=2F81F7&label=Stars)  
  
-  ![Location](https://img.shields.io/badge/Based%20in-India-success?style=flat-square) 
+  ![Location](https://img.shields.io/badge/Based%20in-India-success?style=flat-square)  
  
   ![Open to work](https://img.shields.io/badge/Open%20to-AI%20PM%20%C2%B7%20Founding%20PM%20%C2%B7%20APM-2F81F7?style=flat-square) 
 </div>
