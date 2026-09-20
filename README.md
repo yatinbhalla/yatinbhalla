@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/yatinbhalla">
+<a href="https://github.com/yatinbhalla"> 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=820&lines=Product+Manager+%26+AI+Product+Builder;Shipping+AI-native+products+with+Gemini%2C+TS+%26+Python;0%E2%86%921+PM+%C2%B7+Agentic+workflows+%C2%B7+LLM+product+design;Operator-turned-builder.+I+ship+what+I+spec." alt="Product Manager & AI Product Builder · Shipping AI-native products" />
 </a>
 <br /> 
